@@ -2,7 +2,7 @@
 using namespace std;
 
 void applyDiscount(float &bill) {
-    bill = bill - (bill * 0.10); 
+    bill = bill - (bill * 0.25); 
 }
 
 int main() {
