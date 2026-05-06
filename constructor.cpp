@@ -13,7 +13,7 @@ public:
         rollno = 10;
     }
 
-    // print
+
     void show()
     {
         cout << "Name: " << name << endl;
