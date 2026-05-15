@@ -14,7 +14,7 @@ public:
         rear = -1;
     }
 
-    // Enqueue
+    // Enuqueue
     void enqueue(int x)
     {
         if (rear == 99)
